@@ -38,5 +38,3 @@ class Passaro extends Animal{
 
 var cao = new Cao('Marrom', 20, 'Labrador');
 cao.getInformacoes();
-
-document.write("WIP status test with git stash");
